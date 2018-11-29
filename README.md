@@ -5,4 +5,4 @@ which are used in machine learning and deep learning in python
 1. Numpy
 2. Pandas
 3. Matplotlib
-4. Scipy
+4. SciKit learn
