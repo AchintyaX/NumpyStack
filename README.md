@@ -32,4 +32,6 @@ you can install python notebook in mac and linux using the given command in the 
 `pip3 install numpy`
 3. `matplotlib`: used for the purpose of visualization, install using 
 `pip3 install matplotlib`
-`
+4. `scikit-learn`: It is the easiest machine learning library available, it is very easy to use for the beginners, install using `pip3 install -U scikit-learn`
+but inorder to install scikit learn one must already have installed `numpy` and `scipy`
+scipy installation: `pip3 install scipy`
