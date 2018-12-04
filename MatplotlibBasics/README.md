@@ -6,5 +6,5 @@ Here are some functions basically, plots which are highly used to while machine 
 
 # What next
 There are various properties of the graphs that have been untouched, it would be fun if you would play with them
-Also going through the documentation of the library would be helpful
-Acess the link [here](https://matplotlib.org/contents.html)
+Also going through the documentation of the library would be helpful.
+Access the link [here](https://matplotlib.org/contents.html)
