@@ -15,6 +15,9 @@ for web development, for hacking, etc
 Also Python is a very easy language to get started with, its syntaxes are not as complicated as that of Java
 and it has built a pretty decent community
 Therefore Python got popular for machine learning
+# Why use Jupyter notebook
+Jupyter notebook lets you see the code and the result together, you don't have to run the code again and again to see the result there for makes it easier to understand the code from a educational point of view.
+As for machine learning, in machine learning you have to train the model and that may take a lot of time to process. You don't want the processing to happen again and again, you wanna play with the weights you have obtained. So thats why we use jupyter notebook because you train the model once and then play with the results as much as you want.
 # TOPICS COVERED
 1. Numpy
 2. Pandas
